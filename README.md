@@ -1,17 +1,20 @@
-# About Me :)
+# about me
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&repo=dnfo)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&repo=bin)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&repo=dotfiles)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&repo=mkbak)
+hi!! my name's julia and i'm a self-taught backend dev :)
 
-## I'm Proficient With
+![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia)
+
+## languages that i'm confident with
 
 - Python
-- Bash
+  - <https://github.com/sudo-julia/dnfo>
 
-## I'm Currently Learning
+- Bash
+  - <https://github.com/sudo-julia/bin>
+
+## languages that i'm currently learning
 
 - Lua
+  - <https://github.com/sudo-julia/lua-exercises>
 - C
+  - <https://github.com/sudo-julia/k-and-r>
