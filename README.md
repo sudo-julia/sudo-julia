@@ -1,6 +1,6 @@
 # about me
 
-hi!! my name's julia and i'm a self-taught backend dev :)
+hi!! my name's julia and i'm a self-taught dev :)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia)
 
