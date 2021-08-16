@@ -1,10 +1,4 @@
-# about me
-
-hi!! my name's julia and i'm a self-taught dev :)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia)
-
-## languages that i'm confident with
+# Languages
 
 - Python
   - <https://github.com/sudo-julia/dnfo>
@@ -12,9 +6,4 @@ hi!! my name's julia and i'm a self-taught dev :)
 - Bash
   - <https://github.com/sudo-julia/bin>
 
-## languages that i'm currently learning
-
-- Lua
-  - <https://github.com/sudo-julia/lua-exercises>
-- C
-  - <https://github.com/sudo-julia/k-and-r>
+![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia)
