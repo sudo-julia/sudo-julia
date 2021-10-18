@@ -1,4 +1,9 @@
-# My Favorite Projects
+# Julia's Github
+
+Hey, I'm Julia, a Python/Bash dev. I've been developing cli tools to make system
+administration and development easier for about 2½ years.
+
+## My Favorite Projects
 
 - Python
 
@@ -9,4 +14,4 @@
 - Bash
   - <https://github.com/sudo-julia/bin> - ~/bin
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia)
+![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia&show_icons=true&theme=gruvbox)
