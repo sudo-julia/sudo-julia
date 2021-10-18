@@ -12,12 +12,8 @@ process of learning C.
 
 ## My Favorite Projects
 
-- Python
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&theme=gruvbox&repo=devenv)](https://github.com/sudo-julia/devenv)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&theme=gruvbox&repo=dnfo)](https://github.com/sudo-julia/dnfo)
-
-- Bash
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&theme=gruvbox&repo=bin)](https://github.com/sudo-julia/bin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&theme=gruvbox&repo=devenv)](https://github.com/sudo-julia/devenv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&theme=gruvbox&repo=dnfo)](https://github.com/sudo-julia/dnfo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-julia&theme=gruvbox&repo=bin)](https://github.com/sudo-julia/bin)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia&show_icons=true&theme=gruvbox)
