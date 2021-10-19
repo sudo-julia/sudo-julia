@@ -18,4 +18,4 @@ process of learning C.
 
 ## Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=sudo-julia&hide=stars&include_all_commits=true&show_icons=true&theme=dark)
